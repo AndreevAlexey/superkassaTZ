@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 public class Main {
 
     public static void main(String[] args) {
-        File fileJson = new File("C:\\Users\\User\\Projects\\ebdk\\json.txt");
+        File fileJson = new File("src/com/AlekseyAndreev/json.txt");
         getFullStrings(fileJson);
     }
 
